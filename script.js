@@ -69,7 +69,7 @@
         ],
         teacher: [
             { name: "1. Основы цифровой гигиены", url: "https://disk.yandex.ru/i/PSZTGEpJxa2nuA", type: "material" },
-            { name: "2. Цифровой след: как защитить личные данные", url: "https://disk.yandex.ru/i/felfj7CnYsWPxg", type: "material" },
+            { name: "2. Цифровой след: как защитить личные данные", url: "https://disk.yandex.ru/i/6s2EXVu5fIarvw", type: "material" },
             { name: "3. Социальная инженерия на работе Вы — цель №1", url: "https://disk.yandex.ru/i/Y-N6q6eJVlziQw", type: "material" },
             { name: "4. Цифровой след, репутация и утечки данных", url: "https://disk.yandex.ru/i/JW7otDc2eKMQFQ", type: "material" },
             { name: "5. Цифровая безопасность на работе и дома", url: "https://disk.yandex.ru/i/qTYF4dTI6U6naQ", type: "material" },
